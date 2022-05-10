@@ -6,4 +6,5 @@ Before running request_books.py, check the PLRE.Folger website through the URL c
 If desired to separate the headers from the contents of the cell, change "span" to "td" in line 46 of request_books.py.
 
 # Convert JSON to CSV
+It is meant to be used on the json file that is produced after running request_books.py
 This script requires pandas to be installed.
